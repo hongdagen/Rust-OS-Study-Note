@@ -6,5 +6,3 @@
 
 1. 在配置ubuntu国内镜像的时候，如果使用清华源，要安装清华源与你系统的版本对应。https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/  在这里一看就明白了。
 2. 文档中，用清华源下载rustup我显示404， 换成科技大学的就好了。
-
-![WX202310242210562x.png](assets/WX20231024-221056@2x.png)
